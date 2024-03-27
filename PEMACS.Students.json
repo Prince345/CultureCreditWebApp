@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "65c4964afa6b8c8f4e470acf"
+  },
+  "id": "123345678",
+  "availableCredit": 3,
+  "usedCredit": 0,
+  "activeStatus": true,
+  "fName": "John",
+  "lName": "Doe",
+  "email": "jdoe18@students.desu.edu"
+},
+{
+  "_id": {
+    "$oid": "65c496bdfa6b8c8f4e470ad1"
+  },
+  "id": 23456789,
+  "availableCredit": 2,
+  "usedCredit": 1,
+  "activeStatus": true,
+  "fName": "Jane",
+  "lName": "Doe",
+  "email": "jdoe21@students.desu.edu"
+},
+{
+  "_id": {
+    "$oid": "65c496bdfa6b8c8f4e470ad2"
+  },
+  "id": 34567890,
+  "availableCredit": 0,
+  "usedCredit": 0,
+  "activeStatus": false,
+  "fName": "Leroy",
+  "lName": "Jenkins",
+  "email": "ljenkins21@students.desu.edu"
+},
+{
+  "_id": {
+    "$oid": "65cdd66d32143fef351e3382"
+  },
+  "fName": "Carmen",
+  "lName": "Wright",
+  "email": "cwright19@students.desu.edu",
+  "id": "610293",
+  "availableCredit": 4,
+  "usedCredit": 1
+},
+{
+  "_id": {
+    "$oid": "65cdeb8632143fef351e338f"
+  },
+  "fName": "Giovane",
+  "lName": "Barnes",
+  "email": "gbarnes19@students.desu.edu",
+  "id": "723215",
+  "availableCredit": 1,
+  "usedCredit": 1
+},
+{
+  "_id": {
+    "$oid": "65cdec1732143fef351e3390"
+  },
+  "fName": "Curtis",
+  "lName": "Lee",
+  "email": "clee17@students.desu.edu",
+  "id": "453928",
+  "availableCredit": 2,
+  "usedCredit": 0
+},
+{
+  "_id": {
+    "$oid": "65cdec7532143fef351e3391"
+  },
+  "fName": "Gustavo",
+  "lName": "Lopez",
+  "email": "glopez19@students.desu.edu",
+  "id": "453928",
+  "availableCredit": 5,
+  "usedCredit": 1
+},
+{
+  "_id": {
+    "$oid": "65e030e0c3bc626d5e10b871"
+  },
+  "id": "987654321",
+  "availableCredit": 8,
+  "usedCredit": 2,
+  "activeStatus": false,
+  "fName": "Alice",
+  "lName": "Smith",
+  "email": "asmith@example.com"
+},
+{
+  "_id": {
+    "$oid": "65e030ffc3bc626d5e10b872"
+  },
+  "id": "456789012",
+  "availableCredit": 15,
+  "usedCredit": 5,
+  "activeStatus": true,
+  "fName": "Bob",
+  "lName": "Johnson",
+  "email": "bjohnson@example.org"
+},
+{
+  "_id": {
+    "$oid": "65e03131c3bc626d5e10b873"
+  },
+  "id": "789012345",
+  "availableCredit": 10,
+  "usedCredit": 3,
+  "activeStatus": true,
+  "fName": "Emily",
+  "lName": "Williams",
+  "email": "ewilliams@example.net"
+},
+{
+  "_id": {
+    "$oid": "65e03171c3bc626d5e10b874"
+  },
+  "id": "543210987",
+  "availableCredit": 20,
+  "usedCredit": 8,
+  "activeStatus": true,
+  "fName": "Michael",
+  "lName": "Davis",
+  "email": "mdavis@example.co"
+},
+{
+  "_id": {
+    "$oid": "65e0320cc3bc626d5e10b875"
+  },
+  "id": "112233445",
+  "availableCredit": 10,
+  "usedCredit": 5,
+  "activeStatus": true,
+  "fName": "Sophia",
+  "lName": "Miller",
+  "email": "smiller@example.org"
+},
+{
+  "_id": {
+    "$oid": "65e03215c3bc626d5e10b876"
+  },
+  "id": "556677889",
+  "availableCredit": 7,
+  "usedCredit": 3,
+  "activeStatus": false,
+  "fName": "Daniel",
+  "lName": "Lee",
+  "email": "dlee@example.net"
+},
+{
+  "_id": {
+    "$oid": "65e0321fc3bc626d5e10b877"
+  },
+  "id": "990011223",
+  "availableCredit": 10,
+  "usedCredit": 8,
+  "activeStatus": true,
+  "fName": "Olivia",
+  "lName": "Hernandez",
+  "email": "ohernandez@example.com"
+},
+{
+  "_id": {
+    "$oid": "65e0323fc3bc626d5e10b878"
+  },
+  "id": "334455667",
+  "availableCredit": 10,
+  "usedCredit": 2,
+  "activeStatus": true,
+  "fName": "Matthew",
+  "lName": "Garcia",
+  "email": "mgarcia@example.co"
+},
+{
+  "_id": {
+    "$oid": "65e03248c3bc626d5e10b87a"
+  },
+  "id": "778899001",
+  "availableCredit": 6,
+  "usedCredit": 4,
+  "activeStatus": false,
+  "fName": "Ava",
+  "lName": "Johnson",
+  "email": "ajohnson@example.net"
+},
+{
+  "_id": {
+    "$oid": "65e03251c3bc626d5e10b87c"
+  },
+  "id": "112233445",
+  "availableCredit": 9,
+  "usedCredit": 6,
+  "activeStatus": true,
+  "fName": "William",
+  "lName": "Taylor",
+  "email": "wtaylor@example.org"
+},
+{
+  "_id": {
+    "$oid": "65e03256c3bc626d5e10b87e"
+  },
+  "id": "556677889",
+  "availableCredit": 10,
+  "usedCredit": 10,
+  "activeStatus": false,
+  "fName": "Emma",
+  "lName": "White",
+  "email": "ewhite@example.com"
+},
+{
+  "_id": {
+    "$oid": "65e0325fc3bc626d5e10b880"
+  },
+  "id": "990011223",
+  "availableCredit": 8,
+  "usedCredit": 5,
+  "activeStatus": true,
+  "fName": "Christopher",
+  "lName": "Brown",
+  "email": "cbrown@example.net"
+},
+{
+  "_id": {
+    "$oid": "65e03280c3bc626d5e10b882"
+  },
+  "id": "123456789",
+  "availableCredit": 3,
+  "usedCredit": 2,
+  "activeStatus": true,
+  "fName": "Mia",
+  "lName": "Anderson",
+  "email": "manderson@example.co"
+}]

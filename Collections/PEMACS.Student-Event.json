@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "65cdfdd032143fef351e33aa"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65c4988bfa6b8c8f4e470ad5"
+      },
+      "eventName": "github workshop",
+      "eventDate": {
+        "$date": "2024-02-06T00:00:00.000Z"
+      },
+      "endDate": {
+        "$date": "2024-02-06T17:00:00.000Z"
+      },
+      "presentor": "Prentice Williams",
+      "startDate": {
+        "$date": "2024-02-06T18:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65c4964afa6b8c8f4e470acf"
+      },
+      "id": "123345678",
+      "availableCredit": 3,
+      "usedCredit": 0,
+      "activeStatus": true,
+      "fName": "John",
+      "lName": "Doe",
+      "email": "jdoe18@students.desu.edu"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e0781fc3bc626d5e10b8ab"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65c4988bfa6b8c8f4e470ad5"
+      },
+      "eventName": "github workshop",
+      "eventDate": {
+        "$date": "2024-02-06T00:00:00.000Z"
+      },
+      "endDate": {
+        "$date": "2024-02-06T17:00:00.000Z"
+      },
+      "presentor": "Prentice Williams",
+      "startDate": {
+        "$date": "2024-02-06T18:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65c496bdfa6b8c8f4e470ad1"
+      },
+      "id": 23456789,
+      "availableCredit": 2,
+      "usedCredit": 1,
+      "activeStatus": true,
+      "fName": "Jane",
+      "lName": "Doe",
+      "email": "jdoe21@students.desu.edu"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e0783ac3bc626d5e10b8ac"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65c4988bfa6b8c8f4e470ad5"
+      },
+      "eventName": "github workshop",
+      "eventDate": {
+        "$date": "2024-02-06T00:00:00.000Z"
+      },
+      "endDate": {
+        "$date": "2024-02-06T17:00:00.000Z"
+      },
+      "presentor": "Prentice Williams",
+      "startDate": {
+        "$date": "2024-02-06T18:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65cdd66d32143fef351e3382"
+      },
+      "fName": "Carmen",
+      "lName": "Wright",
+      "email": "cwright19@students.desu.edu",
+      "id": "610293",
+      "availableCredit": 4,
+      "usedCredit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e07859c3bc626d5e10b8ad"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65c4988bfa6b8c8f4e470ad5"
+      },
+      "eventName": "github workshop",
+      "eventDate": {
+        "$date": "2024-02-06T00:00:00.000Z"
+      },
+      "endDate": {
+        "$date": "2024-02-06T17:00:00.000Z"
+      },
+      "presentor": "Prentice Williams",
+      "startDate": {
+        "$date": "2024-02-06T18:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65cdeb8632143fef351e338f"
+      },
+      "fName": "Giovane",
+      "lName": "Barnes",
+      "email": "gbarnes19@students.desu.edu",
+      "id": "723215",
+      "availableCredit": 1,
+      "usedCredit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e0787ac3bc626d5e10b8ae"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65c4988bfa6b8c8f4e470ad5"
+      },
+      "eventName": "github workshop",
+      "eventDate": {
+        "$date": "2024-02-06T00:00:00.000Z"
+      },
+      "endDate": {
+        "$date": "2024-02-06T17:00:00.000Z"
+      },
+      "presentor": "Prentice Williams",
+      "startDate": {
+        "$date": "2024-02-06T18:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65cdec1732143fef351e3390"
+      },
+      "fName": "Curtis",
+      "lName": "Lee",
+      "email": "clee17@students.desu.edu",
+      "id": "453928",
+      "availableCredit": 2,
+      "usedCredit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e078edc3bc626d5e10b8b1"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65cdb6a34a8e7ab34f7d1568"
+      },
+      "eventName": "carreer talk",
+      "endDate": {
+        "$date": "2024-02-15T12:00:00.000Z"
+      },
+      "presentor": "Dr. Marwan Rasamny",
+      "startDate": {
+        "$date": "2024-02-15T11:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65c4964afa6b8c8f4e470acf"
+      },
+      "id": "123345678",
+      "availableCredit": 3,
+      "usedCredit": 0,
+      "activeStatus": true,
+      "fName": "John",
+      "lName": "Doe",
+      "email": "jdoe18@students.desu.edu"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e079c1c3bc626d5e10b8b3"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65cdb6a34a8e7ab34f7d1568"
+      },
+      "eventName": "carreer talk",
+      "endDate": {
+        "$date": "2024-02-15T12:00:00.000Z"
+      },
+      "presentor": "Dr. Marwan Rasamny",
+      "startDate": {
+        "$date": "2024-02-15T11:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65c496bdfa6b8c8f4e470ad1"
+      },
+      "id": 23456789,
+      "availableCredit": 2,
+      "usedCredit": 1,
+      "activeStatus": true,
+      "fName": "Jane",
+      "lName": "Doe",
+      "email": "jdoe21@students.desu.edu"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e079d7c3bc626d5e10b8b4"
+  },
+  "events": [
+    {
+      "_id": {
+        "$oid": "65cdb6a34a8e7ab34f7d1568"
+      },
+      "eventName": "carreer talk",
+      "endDate": {
+        "$date": "2024-02-15T12:00:00.000Z"
+      },
+      "presentor": "Dr. Marwan Rasamny",
+      "startDate": {
+        "$date": "2024-02-15T11:00:00.000Z"
+      },
+      "credits": 1,
+      "cancellationStatus": false,
+      "creditExpiration": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "students": [
+    {
+      "_id": {
+        "$oid": "65e030e0c3bc626d5e10b871"
+      },
+      "id": "987654321",
+      "availableCredit": 8,
+      "usedCredit": 2,
+      "activeStatus": false,
+      "fName": "Alice",
+      "lName": "Smith",
+      "email": "asmith@example.com"
+    }
+  ]
+}]

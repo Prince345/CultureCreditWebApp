@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Signup Form</title>
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-6 main">
+                <form action="/signup" method="POST">
+                    <h2>Signup Form</h2>
+                    <input type="text" class="box" id="firstName" name="firstName" placeholder="First Name" required/>
+                    <br>
+                    <input type="text" class="box" id="lastName" name="lastName" placeholder="Last Name" required/>
+                    <br>
+                    <input type="text" class="box" id="email" name="email" placeholder="Email" required/>
+                    <br>
+                    <input type="text" class="box" id="studentid" name="studentId" placeholder="Student ID" required/>
+                    <br>
+                    <input type="submit" value="Submit" id="Submit"/>
+                </form>
+            </div>
+            <div class="col-md-3">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

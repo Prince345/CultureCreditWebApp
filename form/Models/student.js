@@ -1,4 +1,5 @@
 const mongoose = require("mongoose")
+const {Int32} = require("mongodb");
 const Schema = mongoose.Schema
 
 const StudetnSchema = new Schema({
@@ -19,10 +20,22 @@ const StudetnSchema = new Schema({
         required: [true, "Student D number is required"],
         validate: {
             validator: function (v) {
-                return /^\d{8}.test(v);
+                return /^\d{8}/.test(v);
             },
             message: props => `${props.value} is not valid 8-digit student ID number!`
         }
+    },
+    activeStatus:{
+        type: Boolean,
+        default: true
+    },
+    availableCredit: {
+        type: Number,
+        default: 0
+    },
+    usedCredit: {
+        type: Number,
+        default: 0
     }
 })
 
